@@ -1,14 +1,13 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Transpose Matrix
 
-## Write a short comment describing this function
+## Inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## Solve matrix 
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
